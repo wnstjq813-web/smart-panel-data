@@ -1,9 +1,9 @@
 ﻿{
-  "updated_at": "2026-04-15T04:36:17.227639",
+  "updated_at": "2026-04-15T04:56:05.042055",
   "date": "2026-04-15",
   "total_rows": 24,
-  "avg_load_kw": 6.987,
-  "peak_load_kw": 16.16,
+  "avg_load_kw": 7.16,
+  "peak_load_kw": 14.4,
   "weather": {
     "temperature": 7.7,
     "humidity": 87,
