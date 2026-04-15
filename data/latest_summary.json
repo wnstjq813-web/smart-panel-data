@@ -1,84 +1,66 @@
 ﻿{
-  "updated_at": "2026-04-15T04:56:05.042055",
+  "updated_at": "2026-04-15T05:20:40.517561",
   "date": "2026-04-15",
   "total_rows": 24,
-  "avg_load_kw": 7.16,
-  "peak_load_kw": 14.4,
+  "avg_load_kw": 6.537,
+  "peak_load_kw": 14.5,
   "weather": {
-    "temperature": 7.7,
-    "humidity": 87,
+    "temperature": 7.5,
+    "humidity": 90,
     "weather_code": "clear",
     "is_thunder": false,
     "hourly": {
-      "3": {
-        "temperature": 12.0,
-        "humidity": 70,
-        "weather_code": "cloudy",
-        "is_thunder": false
-      },
-      "4": {
-        "temperature": 12.0,
-        "humidity": 70,
-        "weather_code": "cloudy",
-        "is_thunder": false
-      },
-      "5": {
-        "temperature": 12.0,
-        "humidity": 70,
-        "weather_code": "cloudy",
-        "is_thunder": false
-      },
       "6": {
         "temperature": 11.0,
-        "humidity": 70,
+        "humidity": 75,
         "weather_code": "cloudy",
         "is_thunder": false
       },
       "7": {
         "temperature": 12.0,
-        "humidity": 65,
+        "humidity": 75,
         "weather_code": "partly_cloudy",
         "is_thunder": false
       },
       "8": {
         "temperature": 14.0,
-        "humidity": 60,
-        "weather_code": "cloudy",
+        "humidity": 65,
+        "weather_code": "clear",
         "is_thunder": false
       },
       "9": {
         "temperature": 17.0,
-        "humidity": 50,
+        "humidity": 55,
         "weather_code": "clear",
         "is_thunder": false
       },
       "10": {
         "temperature": 19.0,
-        "humidity": 45,
+        "humidity": 55,
         "weather_code": "clear",
         "is_thunder": false
       },
       "11": {
-        "temperature": 21.0,
-        "humidity": 45,
+        "temperature": 20.0,
+        "humidity": 55,
         "weather_code": "clear",
         "is_thunder": false
       },
       "12": {
-        "temperature": 22.0,
-        "humidity": 45,
+        "temperature": 21.0,
+        "humidity": 50,
         "weather_code": "clear",
         "is_thunder": false
       },
       "13": {
-        "temperature": 23.0,
-        "humidity": 45,
+        "temperature": 22.0,
+        "humidity": 50,
         "weather_code": "clear",
         "is_thunder": false
       },
       "14": {
-        "temperature": 23.0,
-        "humidity": 45,
+        "temperature": 22.0,
+        "humidity": 50,
         "weather_code": "clear",
         "is_thunder": false
       },
@@ -90,13 +72,13 @@
       },
       "16": {
         "temperature": 22.0,
-        "humidity": 50,
+        "humidity": 45,
         "weather_code": "clear",
         "is_thunder": false
       },
       "17": {
         "temperature": 21.0,
-        "humidity": 50,
+        "humidity": 45,
         "weather_code": "clear",
         "is_thunder": false
       },
@@ -125,14 +107,14 @@
         "is_thunder": false
       },
       "22": {
-        "temperature": 14.0,
+        "temperature": 15.0,
         "humidity": 70,
         "weather_code": "clear",
         "is_thunder": false
       },
       "23": {
-        "temperature": 14.0,
-        "humidity": 65,
+        "temperature": 15.0,
+        "humidity": 70,
         "weather_code": "clear",
         "is_thunder": false
       }
