@@ -1,8 +1,8 @@
 ﻿{
-  "updated_at": "2026-04-22 04:52:23",
+  "updated_at": "2026-04-22 04:52:27",
   "last_datetime": "2026-04-22T23:00:00",
-  "total_load_kw": 1.5,
-  "total_current_a": 6.82,
+  "total_load_kw": 0.8,
+  "total_current_a": 3.64,
   "supply_voltage_v": 220.0,
   "panel_status": "normal",
   "accident_type": "low_power_factor",
@@ -16,52 +16,52 @@
     "circuits": 9
   },
   "daily_stats": {
-    "avg_load_kw": 7.088,
-    "peak_load_kw": 22.36,
+    "avg_load_kw": 6.304,
+    "peak_load_kw": 12.4,
     "accident_count": 24,
     "warn_hours": 0,
-    "danger_hours": 1
+    "danger_hours": 0
   },
   "circuits": {
     "c1": {
-      "load_kw": 0.2,
-      "load_rate": 0.133,
-      "current_a": 0.91
-    },
-    "c2": {
-      "load_kw": 0.1,
-      "load_rate": 0.125,
-      "current_a": 0.45
-    },
-    "c3": {
-      "load_kw": 0.3,
-      "load_rate": 0.086,
-      "current_a": 1.36
-    },
-    "c4": {
-      "load_kw": 0.15,
-      "load_rate": 0.075,
-      "current_a": 0.68
-    },
-    "c5": {
-      "load_kw": 0.25,
-      "load_rate": 0.071,
-      "current_a": 1.14
-    },
-    "c6": {
-      "load_kw": 0.18,
-      "load_rate": 0.09,
-      "current_a": 0.82
-    },
-    "c7": {
       "load_kw": 0.1,
       "load_rate": 0.067,
       "current_a": 0.45
     },
+    "c2": {
+      "load_kw": 0.05,
+      "load_rate": 0.062,
+      "current_a": 0.23
+    },
+    "c3": {
+      "load_kw": 0.2,
+      "load_rate": 0.057,
+      "current_a": 0.91
+    },
+    "c4": {
+      "load_kw": 0.08,
+      "load_rate": 0.04,
+      "current_a": 0.36
+    },
+    "c5": {
+      "load_kw": 0.15,
+      "load_rate": 0.043,
+      "current_a": 0.68
+    },
+    "c6": {
+      "load_kw": 0.12,
+      "load_rate": 0.06,
+      "current_a": 0.55
+    },
+    "c7": {
+      "load_kw": 0.0,
+      "load_rate": 0.0,
+      "current_a": 0.0
+    },
     "c8": {
-      "load_kw": 0.22,
-      "load_rate": 0.073,
-      "current_a": 1.0
+      "load_kw": 0.1,
+      "load_rate": 0.033,
+      "current_a": 0.45
     },
     "c9": {
       "load_kw": 0.0,
