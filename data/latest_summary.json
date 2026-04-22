@@ -1,8 +1,8 @@
 ﻿{
-  "updated_at": "2026-04-22 05:53:55",
+  "updated_at": "2026-04-22 06:11:01",
   "last_datetime": "2026-04-22T23:00:00",
-  "total_load_kw": 2.7,
-  "total_current_a": 12.27,
+  "total_load_kw": 1.85,
+  "total_current_a": 8.41,
   "supply_voltage_v": 220.0,
   "panel_status": "normal",
   "accident_type": "low_power_factor",
@@ -16,8 +16,8 @@
     "circuits": 9
   },
   "daily_stats": {
-    "avg_load_kw": 6.43,
-    "peak_load_kw": 10.9,
+    "avg_load_kw": 7.113,
+    "peak_load_kw": 13.6,
     "accident_count": 24,
     "warn_hours": 0,
     "danger_hours": 0
@@ -39,19 +39,19 @@
       "current_a": 1.36
     },
     "c4": {
-      "load_kw": 0.4,
-      "load_rate": 0.2,
-      "current_a": 1.82
+      "load_kw": 0.15,
+      "load_rate": 0.075,
+      "current_a": 0.68
     },
     "c5": {
-      "load_kw": 0.8,
-      "load_rate": 0.229,
-      "current_a": 3.64
+      "load_kw": 0.4,
+      "load_rate": 0.114,
+      "current_a": 1.82
     },
     "c6": {
-      "load_kw": 0.2,
-      "load_rate": 0.1,
-      "current_a": 0.91
+      "load_kw": 0.25,
+      "load_rate": 0.125,
+      "current_a": 1.14
     },
     "c7": {
       "load_kw": 0.1,
@@ -59,9 +59,9 @@
       "current_a": 0.45
     },
     "c8": {
-      "load_kw": 0.6,
-      "load_rate": 0.2,
-      "current_a": 2.73
+      "load_kw": 0.35,
+      "load_rate": 0.117,
+      "current_a": 1.59
     },
     "c9": {
       "load_kw": 0.0,
