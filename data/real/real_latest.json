@@ -1,0 +1,41 @@
+{
+  "updated_at": "2026-10-18T19:36:45",
+  "last_hour": "2026-10-18T18:00:00",
+  "summary": {
+    "datetime": "2026-10-18T18:00:00",
+    "total_load_kw": 0.0464,
+    "total_current_a": 0.407,
+    "supply_voltage_v": 228.3,
+    "voltage_min_v": 227.3,
+    "voltage_max_v": 229.7,
+    "current_max_a": 0.526,
+    "power_avg_w": 46.4,
+    "power_max_w": 56.8,
+    "energy_wh_hour": 37.0,
+    "pf_avg": 0.484,
+    "frequency_avg_hz": 59.98,
+    "unmeasured_avg_a": 0.176,
+    "minutes": 49,
+    "errors": 94,
+    "status": "partial",
+    "ct1_current_a": 0.0,
+    "ct1_max_a": 0.0,
+    "ct1_load_pct_max": 0.0,
+    "ct2_current_a": 0.018,
+    "ct2_max_a": 0.036,
+    "ct2_load_pct_max": 0.2,
+    "ct3_current_a": 0.189,
+    "ct3_max_a": 0.247,
+    "ct3_load_pct_max": 1.2
+  },
+  "facility": {
+    "name": "홍성 사무실",
+    "real_map": {
+      "c1": "ct2",
+      "c8": "ct3",
+      "c9": "ct1"
+    }
+  },
+  "site_url": "https://smartpanelteam1.com",
+  "source": "Raspberry Pi 5 · PZEM-004T + SCT-013 ×3"
+}
