@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T18:02:00",
+  "updated_at": "2026-10-19T18:28:36",
   "last_hour": "2026-10-18T20:00:00",
   "summary": {
     "datetime": "2026-10-18T20:00:00",
@@ -26,14 +26,16 @@
     "ct2_load_pct_max": 0.2,
     "ct3_current_a": 0.221,
     "ct3_max_a": 0.236,
-    "ct3_load_pct_max": 1.2
+    "ct3_load_pct_max": 1.2,
+    "leak_ma_avg": "",
+    "leak_ma_max": ""
   },
   "facility": {
     "name": "홍성 사무실",
     "real_map": {
-      "c1": "ct2",
-      "c8": "ct3",
-      "c9": "ct1"
+      "c1": "ct1",
+      "c8": "ct2",
+      "c9": "leak"
     }
   },
   "site_url": "https://smartpanelteam1.com",
