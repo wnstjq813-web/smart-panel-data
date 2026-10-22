@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-22T21:02:00",
-  "last_hour": "2026-10-22T20:00:00",
+  "updated_at": "2026-10-22T22:02:00",
+  "last_hour": "2026-10-22T21:00:00",
   "summary": {
-    "datetime": "2026-10-22T20:00:00",
+    "datetime": "2026-10-22T21:00:00",
     "total_load_kw": 0.0129,
     "total_current_a": 0.117,
-    "supply_voltage_v": 228.7,
-    "voltage_min_v": 227.8,
-    "voltage_max_v": 229.5,
+    "supply_voltage_v": 229.0,
+    "voltage_min_v": 228.2,
+    "voltage_max_v": 229.7,
     "current_max_a": 0.118,
     "power_avg_w": 12.9,
     "power_max_w": 13.1,
     "energy_wh_hour": 13.0,
     "pf_avg": 0.481,
-    "frequency_avg_hz": 59.98,
+    "frequency_avg_hz": 59.96,
     "unmeasured_avg_a": 0.117,
     "minutes": 60,
     "errors": 0,
@@ -28,7 +28,7 @@
     "ct3_max_a": "",
     "ct3_load_pct_max": "",
     "leak_ma_avg": 0.21,
-    "leak_ma_max": 0.32
+    "leak_ma_max": 0.35
   },
   "facility": {
     "name": "홍성 사무실",
